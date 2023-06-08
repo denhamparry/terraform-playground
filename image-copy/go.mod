@@ -1,4 +1,4 @@
-module github.com/imjasonh/terraform-playground/image-copy
+module github.com/denhamparry/terraform-playground/image-copy
 
 go 1.20
 
